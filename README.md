@@ -21,7 +21,7 @@ I’m a data-driven professional passionate about transforming complex datasets 
 
 ---
 
-## What I Do
+## 🧩 What I Do
 - Analyze raw data to identify trends, patterns, and insights that support business decisions  
 - Clean, transform, and prepare data for accurate analysis and reporting  
 - Build interactive dashboards and reports using Power BI, Tableau, and Excel  
