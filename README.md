@@ -16,7 +16,7 @@ I’m a data-driven professional passionate about transforming complex datasets 
 💻 **Languages:** Python, SQL  
 📊 **Analytics:** Data Cleaning, EDA, Statistical Analysis  
 📈 **Visualization:** Power BI, Tableau, Excel  
-🗄️ **Databases:** MySQL, Microsoft SQL Server 
+🗄️ **Databases:** MySQL, Microsoft SQL Server  
 ⚙️ **Tools:** Power Query, Jupiter Notebook 
 
 ---
